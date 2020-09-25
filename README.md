@@ -3,7 +3,7 @@
 
 <center>
 <div>
-    <img src='./src/giphy.gif' style="width:80%; height:50%"></img>
+    <img src='./src/giphy.gif' style="width:80%; height:60%"></img>
 </div>
 </center>
 
